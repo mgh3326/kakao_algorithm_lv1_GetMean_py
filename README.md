@@ -1,0 +1,2 @@
+# kakao_algorithm_lv1_GetMean_py
+kakao_algorithm_lv1_GetMean_py
